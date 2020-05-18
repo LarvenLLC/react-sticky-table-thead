@@ -1,0 +1,40 @@
+{
+    "name": "react-sticky-table-thead",
+    "description": "Easy to use wrapper component to enable fixed table head in tables",
+    "version": "0.1.0",
+    "author": "Adam 'BossBele' Beleko",
+    "bugs": {
+      "url": "https://github.com/LarvenLLC/react-sticky-table-thead/issues"
+    },
+    "homepage": "https://github.com/LarvenLLC/react-sticky-table-thead",
+    "keywords": [
+        "react",
+        "sticky",
+        "header",
+        "head",
+        "thead",
+        "table",
+        "table",
+        "table"
+    ],
+    "license": "MIT",
+    "dependencies": {
+        "jquery": "^3.5.0",
+        "prop-types": "^15.7.2"
+    },
+    "devDependencies": {
+        "react": "16.13.1",
+        "react-dom": "16.13.1"
+    },
+    "main": "dist/index.js",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/LarvenLLC/react-sticky-table-thead.git"
+    },
+    "scripts": {
+        "dev": "yarn dev",
+        "build": "yarn build",
+        "install": "yarn install"
+    },
+    "source": "src/index.js"
+}
