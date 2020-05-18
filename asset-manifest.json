@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-sticky-table-thead/static/css/main.42cc8b22.chunk.css",
+    "main.js": "/react-sticky-table-thead/static/js/main.3312c45e.chunk.js",
+    "main.js.map": "/react-sticky-table-thead/static/js/main.3312c45e.chunk.js.map",
+    "runtime-main.js": "/react-sticky-table-thead/static/js/runtime-main.ae668333.js",
+    "runtime-main.js.map": "/react-sticky-table-thead/static/js/runtime-main.ae668333.js.map",
+    "static/js/2.422c8c5d.chunk.js": "/react-sticky-table-thead/static/js/2.422c8c5d.chunk.js",
+    "static/js/2.422c8c5d.chunk.js.map": "/react-sticky-table-thead/static/js/2.422c8c5d.chunk.js.map",
+    "index.html": "/react-sticky-table-thead/index.html",
+    "precache-manifest.672e5c76ba0752e61a0538577fd3133f.js": "/react-sticky-table-thead/precache-manifest.672e5c76ba0752e61a0538577fd3133f.js",
+    "service-worker.js": "/react-sticky-table-thead/service-worker.js",
+    "static/css/main.42cc8b22.chunk.css.map": "/react-sticky-table-thead/static/css/main.42cc8b22.chunk.css.map",
+    "static/js/2.422c8c5d.chunk.js.LICENSE.txt": "/react-sticky-table-thead/static/js/2.422c8c5d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ae668333.js",
+    "static/js/2.422c8c5d.chunk.js",
+    "static/css/main.42cc8b22.chunk.css",
+    "static/js/main.3312c45e.chunk.js"
+  ]
+}
