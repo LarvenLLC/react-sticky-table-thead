@@ -94,12 +94,12 @@ class Example extends Component {
 ```
 
 ## Props
-| Prop  | Explanation | Data Type | Values | Default |
+| Prop  | Explanation | Data Type | (Sample) Values | Default |
 | ------------- | :-: | :-: | :-: | :-: |
-| height | height of table wrapper | ```Number``` | * ```'gif'```<br/>* ```'png'```<br/>* ```'jpg'```<br/>* ```'jpeg'``` | ```600``` |
+| height | height of table wrapper | ```Number``` | * ```200```<br/>* ```800```<br/> | ```600``` |
 | hiddenVerticalScrollbar | hide the table vertical scrollbar (scrolling will still be enabled) | Bool | * ```true```<br/>* ```false``` | ```false``` |
 | hiddenHorizontalScrollbar | hide table horizontal scrollbar (scrolling will still be enabled) | Bool | * ```true```<br/>* ```false``` | ```false``` |
-| className | table wrapper class (useful for setting table responsiveness: .table-responsive) | String | * ```".table-responsive"```<br/>* ```".class"``` | ```""``` |
+| className | table wrapper class (useful for setting table responsiveness: .table-responsive) | String | * ```".css-class"```<br/>* ```".table-responsive"``` | ```""``` |
 
 ## License
 
