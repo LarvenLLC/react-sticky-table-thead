@@ -42,6 +42,7 @@ var StickyTable = /*#__PURE__*/function (_React$Component) {
       },
       className: this.props.className,
       style: {
+        overflow: "auto",
         height: props.height,
         width: props.hiddenVerticalScrollbar ? "calc(100% + 15px)" : "100%"
       }

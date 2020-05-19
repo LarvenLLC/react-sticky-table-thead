@@ -19,7 +19,7 @@ export class StickyTable extends React.Component {
         const props = this.props;
         return (
             <div style={{overflow:"hidden", height:props.hiddenHorizontalScrollbar ? props.height - 15 : ""}}>
-                <div ref={(el) => (this.tableContainer = el)} className={this.props.className} style={{height:props.height, width:props.hiddenVerticalScrollbar ? "calc(100% + 15px)" : "100%"}}>
+                <div ref={(el) => (this.tableContainer = el)} className={this.props.className} style={{overflow:"auto", height:props.height, width:props.hiddenVerticalScrollbar ? "calc(100% + 15px)" : "100%"}}>
                     {props.children}
                 </div>
             </div>

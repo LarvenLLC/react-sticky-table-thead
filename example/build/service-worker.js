@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/react-sticky-table-thead/precache-manifest.672e5c76ba0752e61a0538577fd3133f.js"
+  "/react-sticky-table-thead/precache-manifest.9b1962112b11bf2abe1d2bf4d731ad0a.js"
 );
 
 self.addEventListener('message', (event) => {

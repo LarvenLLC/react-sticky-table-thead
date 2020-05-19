@@ -26,6 +26,7 @@ class StickyTable extends React.Component {
       ref: el => this.tableContainer = el,
       className: this.props.className,
       style: {
+        overflow: "auto",
         height: props.height,
         width: props.hiddenVerticalScrollbar ? "calc(100% + 15px)" : "100%"
       }
