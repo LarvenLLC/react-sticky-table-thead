@@ -4,7 +4,7 @@ import { StickyTable } from 'react-sticky-table-thead'
 
 const App = () => {
   return (
-    <div style={{width:250}}> {/* container width important but not required */}
+    <div style={{width:250}}> {/* container width optional */}
       <StickyTable height={150}> {/* when content exceeds height of table wrapper content scrolling is enabled */}
         <table style={{width:"100%", borderCollapse:"collapse"}}> {/* any table */}
           <thead style={{backgroundColor:"#c0c0c0"}}>
