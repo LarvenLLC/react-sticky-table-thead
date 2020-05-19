@@ -14,6 +14,8 @@ Or
 yarn add react-sticky-table-thead
 ```
 
+![Alt Text](/example/public/react-sticky-table-thead(example).gif)
+
 ## Usage
 
 ```jsx
