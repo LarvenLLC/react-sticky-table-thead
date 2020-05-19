@@ -27,7 +27,7 @@ export class StickyTable extends React.Component {
     }
 }
 StickyTable.defaultProps = {
-    height: 600,
+    height: 450,
     hiddenVerticalScrollbar: false,
     hiddenHorizontalScrollbar: false,
     className: ""
