@@ -1,6 +1,6 @@
 import React from 'react'
 
-import { StickyTable } from 'react-sticky-table-thead'
+import StickyTable from 'react-sticky-table-thead'
 
 const App = () => {
   return (

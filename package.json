@@ -1,6 +1,6 @@
 {
   "name": "react-sticky-table-thead",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Easy to use wrapper component to enable fixed table head in tables",
   "author": "Adam 'BossBele' Beleko",
   "license": "MIT",

@@ -62,5 +62,5 @@ StickyTable.propTypes = {
   className: PropTypes.string
 };
 
-export { StickyTable };
+export default StickyTable;
 //# sourceMappingURL=index.modern.js.map

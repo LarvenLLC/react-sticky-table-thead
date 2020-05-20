@@ -64,5 +64,5 @@ StickyTable.propTypes = {
   className: PropTypes.string
 };
 
-exports.StickyTable = StickyTable;
+module.exports = StickyTable;
 //# sourceMappingURL=index.js.map
