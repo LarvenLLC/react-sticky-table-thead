@@ -2,7 +2,7 @@ import React from "react";
 import PropTypes from 'prop-types';
 import $ from 'jquery';
 
-export class StickyTable extends React.Component {
+export default class StickyTable extends React.Component {
     constructor(props){
 		super(props)
 	}
